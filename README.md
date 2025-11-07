@@ -1,6 +1,6 @@
 # Nexus Tech - Tracer
 
-Aplicação Java Spring Boot para gestão de usuários, filiais e motos da Nexus Tech, desenvolvida como parte da Sprint 4.
+
 
 ## Azure Boards
 - Página inicial: https://dev.azure.com/RM557987/Nexus%20Tech%20-%20Tracer
